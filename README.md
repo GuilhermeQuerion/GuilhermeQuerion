@@ -1,6 +1,6 @@
-- Guilherme Querion
-- Desenvolvedor Junior
-- Formado em Sistemas de Informação
+- 👋 Guilherme Querion
+- 🔭 Desenvolvedor Junior
+- 🌱 Formado em Sistemas de Informação
 
 <!---
 GuilhermeQuerion/GuilhermeQuerion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
