@@ -1,5 +1,5 @@
 - 👋 Guilherme Querion
-- 🔭 Desenvolvedor Junior
+- 🔭 Analista de Desenvolvimento
 - 🌱 Formado em Sistemas de Informação
 
 <!---
