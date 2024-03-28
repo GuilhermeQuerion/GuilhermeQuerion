@@ -1,3 +1,3 @@
 - 👋 Guilherme Querion
 - 🔭 Analista de Desenvolvimento
-- 🌱 Formado em Sistemas de Informação
+- 🌱 Pós-graduado em Arquitetura de Software
